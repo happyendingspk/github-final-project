@@ -7,4 +7,3 @@ Input:
 Output
    simple interest = p*t*r
 
-2023 XYZ, Inc.
