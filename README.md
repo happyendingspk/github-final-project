@@ -7,5 +7,4 @@ Input:
 Output
    simple interest = p*t*r
 
-##footer
 **2022 XYZ, Inc.**
